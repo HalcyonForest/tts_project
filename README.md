@@ -3,6 +3,7 @@
 там пройдет скачивание всех необходимых файлов и датасетов. Результаты есть в папке резултс
 Ссылка на скачивание чекпоинта: 
 2 версия: https://57723853-911f-4a62-9297-3faec448d660.yds.yandexcloud.net/lab/v2/57723853-911f-4a62-9297-3faec448d660/files/tts_homework/model_new/checkpoint_20000.pth.tar?_xsrf=2%7C4af9168d%7C40435dcf5ce4d127e2baaf1814ebbc9a%7C1668591725
+
 1 версия: https://57723853-911f-4a62-9297-3faec448d660.yds.yandexcloud.net/lab/v2/57723853-911f-4a62-9297-3faec448d660/files/tts_homework/wcheckpoint_99000/checkpoint_99000.pth.tar?_xsrf=2%7C4af9168d%7C40435dcf5ce4d127e2baaf1814ebbc9a%7C1668591725
 
 (Сори за такое, у меня трафик ограничен и скачивание + загрузка 300мб заняли бы вечность... ;( 
