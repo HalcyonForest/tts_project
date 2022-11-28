@@ -19,3 +19,12 @@
 Pitchpredictor - считаем таргеты с помощью pyworld dio, сохраняем в папочку чтобы потом быстро оттуда их доставать. Energy - считаем два раза норму по последнему dim от того, что получили прогнав вавку через torch.stft(). Потом в самой модели используем ту же архитектуру как и при предсказании duration. Везде предсказываем логарифмы для лучшей сходимости. для питча и энергии используем мсе лосс, для duration - l1. 
 
 Ну а дальше все как-то как обычно - происходит инференс, делаем вавки какие получились. Мне грустно.
+
+
+Репорты с вандб: 
+
+https://wandb.ai/egortkachenko/TTS/reports/FastSpeech2--VmlldzozMDUwMTEw?accessToken=kslr1kocqzawho0i3z262xibmefutropa777pc8a8u0xbjs9f8fi9ut0f2xffz0j
+
+более последний но тут чет пошло вверх а потом опять вниз.
+
+https://wandb.ai/egortkachenko/TTS/reports/---VmlldzozMDUwMTI0?accessToken=x4dwc31im3crttmxhbvh1wdxw706p1po2m862iqssi0i21o8fi1s33ba14fugku0
